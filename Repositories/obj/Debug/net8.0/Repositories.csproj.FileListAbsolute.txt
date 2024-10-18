@@ -1,0 +1,17 @@
+E:\PRN212\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+E:\PRN212\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+E:\PRN212\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+E:\PRN212\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+E:\PRN212\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+E:\PRN212\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+E:\PRN212\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+E:\PRN212\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
